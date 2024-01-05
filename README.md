@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je m'appelle Axel RHUL, un étudiant en alternance de 20 ans passionné par l'informatique. Actuellement, je suis en alternance et j'étudie l'informatique à l'ESPI tout en travaillant chez Creatis Web Art.
+Je m'appelle Axel RHUL, je suis un étudiant en alternance de 20 ans passionné par l'informatique. Actuellement, je suis en alternance et j'étudie l'informatique à l'ESPI tout en travaillant chez Creatis Web Art.
 
 ## Mes compétences
 
@@ -18,7 +18,7 @@ Merci de visiter mon profil !
 
 ## About Me
 
-My name is Axel RHUL, a 20-year-old student passionate about computer science. Currently, I'm in an apprenticeship program, studying computer science at ESPI, while working at Creatis Web Art.
+My name is Axel RHUL, i'm a 20-year-old student passionate about computer science. Currently, I'm in an apprenticeship program, studying computer science at ESPI, while working at Creatis Web Art.
 
 ## My Skills
 
